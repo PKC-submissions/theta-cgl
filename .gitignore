@@ -1,0 +1,11 @@
+# For macs
+*.DS_Store
+
+# For sage
+__pycache__
+*.sage.py
+
+# For rust
+theta_cgl_rust/target
+**/*.rs.bk
+*Cargo.lock
